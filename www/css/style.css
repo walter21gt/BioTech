@@ -3,6 +3,13 @@
 }
 .borde{
 	border: solid white 1px;
-	height=
+	height
 	width
+}
+.centrado{
+	text-align: center;
+}
+.letra{
+	background: #8AB2AA;
+	color: #414145;
 }
