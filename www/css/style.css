@@ -8,8 +8,13 @@
 }
 .centrado{
 	text-align: center;
+
 }
 .letra{
 	background: #8AB2AA;
 	color: #414145;
+}
+.tipol{
+	color: #FDFDFD;
+	font-size: 16px;
 }
