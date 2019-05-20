@@ -10,7 +10,7 @@
 	text-align: center;
 
 }
-.letra{
+.letrag{
 	background: #8AB2AA;
 	color: #414145;
 }
@@ -35,4 +35,33 @@ canvas {
   display: block;
   margin: 20px auto;
   background: black url("http://api.thumbr.it/whitenoise-560x800.png?background=0f1517ff&noise=626262&density=67&opacity=15") repeat fixed center;
+}
+.letra3{
+  font-size: 18px;
+  font-family: Arial;
+  color: #dedede;
 }	
+.letra4{
+  font-size: 16px;
+  font-family: Arial;
+  color: #FFF; 
+}
+.borde2{
+  border-left: solid red 1px;
+  border-right: solid red 1px;
+}
+.bordef{
+  border-bottom: solid red 1.5px;
+}
+.letra{
+  color: #FFFFFF;
+  font-size: 26px;
+  font-family: Arial; 
+  text-align: center;
+}
+.letra1{
+  color: #C7B6B2  ;
+  font-family: Arial; 
+  text-align: center;
+
+}
