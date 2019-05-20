@@ -18,18 +18,18 @@ angular.module('starter.services', [])
   }, {
     id: 2,
     name: 'Metodos Anticonceptivos',
-    lastText: 'I should buy a boat',
+    lastText: 'Métodos no hormonales reversibles Dispositivos intrauterinos Anticonceptivos de barrera masculinos Métodos de abstinencia periódica ',
     face: 'img/adam.jpg'
   }, {
     id: 3,
     name: 'Metodos Anticonceptivos',
-    lastText: 'Look at my mukluks!',
-    face: 'img/perry.png'
+    lastText: 'Métodos no hormonales permanentes Anticoncepción quirúrgica voluntaria (esterilización) femenina Anticoncepción quirúrgica voluntaria (esterilización) masculina.',
+    face: 'img/imagen3.png'
   }, {
     id: 4,
     name: 'Metodos Anticonceptivos',
-    lastText: 'This is wicked good ice cream.',
-    face: 'img/mike.png'
+    lastText: 'Los métodos anticonceptivos tienen diferentes características en las que hay que fijarse cuando se elija uno de ellos. Esto es necesario para que el método permita alcanzar las metas reproductivas en forma efectiva y segura para la salud y de acuerdo a la situación de vida.',
+    face: 'img/imagen4.png'
   }];
 
   return {
